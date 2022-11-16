@@ -1,8 +1,2 @@
-# Defiai.FAQ
-用于记录Defiai中的常见问题和答案
-
-
-## 审计报告
-- [CertiK](https://github.com/Eternity714/Defiai.FAQ/blob/88488dadd3a789d80fba4cfeefdf62fd3bda1b35/%E5%AE%A1%E8%AE%A1%E6%8A%A5%E5%91%8A/CertiK%E5%AE%A1%E8%AE%A1%E6%8A%A5%E5%91%8A.pdf)
-- [Hacken](https://github.com/Eternity714/Defiai.FAQ/blob/c6544cb3615ecb5d0be598cb507a632fe0f8887e/%E5%AE%A1%E8%AE%A1%E6%8A%A5%E5%91%8A/Hacken%E5%AE%A1%E8%AE%A1%E6%8A%A5%E5%91%8A.pdf)
-- [派盾](https://github.com/Eternity714/Defiai.FAQ/blob/c6544cb3615ecb5d0be598cb507a632fe0f8887e/%E5%AE%A1%E8%AE%A1%E6%8A%A5%E5%91%8A/%E6%B4%BE%E7%9B%BE%E5%AE%A1%E8%AE%A1%E6%8A%A5%E5%91%8A.pdf)
+# 澄清声明
+## 本人并非Defiai项目技术人员，此代码仓库仅存储了defiai的审计报告，未提交过任何与defiai相关的源代码。本仓库中所有的审计报告均由本人从常青社区社群中的公开资料中收集，未接触过任何项目内容。本人已在广州天河区天园派出所报案并已向办案民警报备。
